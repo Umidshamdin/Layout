@@ -1,0 +1,76 @@
+*{
+    margin-top: 0%;
+    padding: 0%;
+}
+.navbar{
+    margin-top: 20px;
+}
+
+
+.navbar .brand{
+    color: black;
+
+}
+.navbar .right{
+    color: black;
+    margin-left: 1300px;
+    margin-top: -30px;
+    padding: 10px;
+    
+ 
+}
+.row {
+    display: flex;
+   
+}
+.row1 .header h1{
+    text-align: center;
+}
+.row1 .header p{
+   
+    margin-left: 400px;
+    justify-content: center;
+    
+}
+
+
+.row1 .header p{
+    justify-content: center;
+}
+.row1 .action{
+    text-align: center;
+    
+}
+.row1{
+    background-color: white;
+    height: 300px;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+}
+.Content-block1{
+    
+    display: flex;
+    margin-top: 150px;
+    margin-left: 50px;
+}
+.word{
+   margin-right: 900px;
+   margin-left: 50px;
+   margin-bottom: 30px;
+
+   
+}
+main #Content-block .button2 button{
+    color: white;
+    background-color: royalblue;
+    margin-bottom: 100px;
+    text-align: center;
+    margin-left: 100px;
+
+}
+.main #Content-block .number span {
+    background-color:red;
+    color: tomato;
+    height: 400px;
+    margin-left: 500px;
+}
